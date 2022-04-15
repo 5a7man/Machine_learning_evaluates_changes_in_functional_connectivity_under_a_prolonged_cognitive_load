@@ -1,5 +1,5 @@
 # Machine learning evaluates changes in functional connectivity under a prolonged cognitive load
-Python implementation of paper "Machine learning evaluates changes in functional connectivity under a prolonged cognitive load". One can use this to reproduce the results.
+Source code of paper "Machine learning evaluates changes in functional connectivity under a prolonged cognitive load". One can use this to reproduce the results.
 
 ## Citation
 This work was published in [Chaos: An Interdisciplinary Journal of Nonlinear Science](https://aip.scitation.org/doi/10.1063/5.0070493)
